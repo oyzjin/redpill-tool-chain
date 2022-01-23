@@ -12,5 +12,5 @@
         "maxdisks" : "32",
     },
     "ramdisk_copy": {},
-    "extensions": []
+    "extensions": {}
 }
