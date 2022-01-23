@@ -9,11 +9,11 @@
         "mac3": "001132123453",
         "mac4": "001132123454",
         "mac5": "001132123455",
-        "mac6": "001132123456",
+        "mac6": "001132123456"
     },
     "synoinfo": {
         "maxlanport" : "6",
-        "maxdisks" : "32",
+        "maxdisks" : "32"
     },
     "ramdisk_copy": {},
     "extensions": {}
