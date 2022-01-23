@@ -5,7 +5,9 @@
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY"
     },
-    "synoinfo": {},
+    "synoinfo": {
+        "maxlanport" : "6"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
