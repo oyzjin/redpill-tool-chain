@@ -3,10 +3,13 @@
         "pid": "0x0001",
         "vid": "0x46f4",
         "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "netif_num":"6",
+        "mac1": "001132123451",
+        "mac2": "001132123452"
     },
     "synoinfo": {
-        "maxlanport" : "6"
+        "maxlanport" : "6",
+        "maxdisks" : "32",
     },
     "ramdisk_copy": {},
     "extensions": []
